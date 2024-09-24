@@ -1,0 +1,2 @@
+# Polymorphsim
+principle of grasp
